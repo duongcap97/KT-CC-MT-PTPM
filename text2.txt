@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 may 1 da sua lan2
+=======
+may 2 sua file text2 lan 2
+>>>>>>> 9877c7c8411dfcfd0db8098ae84d1f100120a88a
